@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
