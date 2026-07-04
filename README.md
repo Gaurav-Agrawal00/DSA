@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0060-permutation-sequence) |
 ## Matrix
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0131-palindrome-partitioning) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
