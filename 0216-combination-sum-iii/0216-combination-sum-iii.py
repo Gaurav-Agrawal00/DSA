@@ -4,8 +4,11 @@ class Solution:
             ans.append(list(ds))
             return
 
+        if len(ds) == k :
+            return
+
         for i in range(ind,10):
-            if ind > target:
+            if i > target:
                 break
 
             ds.append(i)
