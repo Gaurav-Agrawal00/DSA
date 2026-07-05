@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0090-subsets-ii) |
 | [1929-concatenation-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1929-concatenation-of-array) |
 ## Backtracking
@@ -22,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0090-subsets-ii) |
 ## Math
 |  |
