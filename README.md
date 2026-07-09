@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0216-combination-sum-iii) |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
