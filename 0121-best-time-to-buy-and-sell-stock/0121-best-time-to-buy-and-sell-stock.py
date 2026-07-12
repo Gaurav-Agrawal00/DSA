@@ -4,10 +4,11 @@ class Solution:
         profit = 0
         max_profit = 0
         for price in prices:
-            profit = price - buyPrice 
-            if profit > max_profit :
-                max_profit = profit
-            if profit < 0 :
+            if price < buyPrice :
                 buyPrice = price
+            else:
+                profit = price - buyPrice
+                if max_profit < profit :
+                    max_profit = profit
 
         return max_profit
