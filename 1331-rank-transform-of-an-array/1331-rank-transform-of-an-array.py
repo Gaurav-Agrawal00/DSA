@@ -5,13 +5,10 @@ class Solution:
         
         hash_map = {}
         cnt = 1
-        for i in range(len(arr)):
-            if arr1[i] not in hash_map:
-                hash_map[arr1[i]] = hash_map.get(arr1[i],cnt)
+        for num in arr1:
+            if num not in hash_map:
+                hash_map[num] = cnt
                 cnt += 1
         
-        ans = [0]* len(arr)
-
-        for i in range(len(arr)):
-            ans[i] = hash_map[arr[i]]
+        ans = [hash_map[num] for num in arr]
         return ans
