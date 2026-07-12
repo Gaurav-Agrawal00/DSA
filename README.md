@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1929-concatenation-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1929-concatenation-of-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -94,4 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
