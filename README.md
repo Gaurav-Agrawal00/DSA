@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0231-power-of-two) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
