@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0231-power-of-two) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0202-happy-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
