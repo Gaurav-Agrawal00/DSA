@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0050-powx-n) |
