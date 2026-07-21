@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1929-concatenation-of-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -170,8 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0496-next-greater-element-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
