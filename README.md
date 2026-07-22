@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0054-spiral-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0131-palindrome-partitioning) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0189-rotate-array) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
