@@ -11,7 +11,7 @@ class Solution:
                     if stack and stack[-1] == abs(val) :
                         stack.pop()
                         continue
-                    if len(stack) == 0 or stack[-1] < 0:
+                    elif len(stack) == 0 or stack[-1] < 0:
                         stack.append(val)
                 else:
                     stack.append(val)
