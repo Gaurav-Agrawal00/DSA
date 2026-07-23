@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
