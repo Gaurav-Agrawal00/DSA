@@ -1,7 +1,5 @@
 class Solution:
     def maximumProduct(self, nums: List[int]) -> int:
-        if len(nums) < 3:
-            return None
         
         max1 = max2 = max3 = float('-inf')
         min1 = min2 = float('inf')
@@ -21,5 +19,6 @@ class Solution:
                 min1 = num
             elif min1 <= num and min2 > num :
                 min2 = num
+                
         return max(max1 * max2 * max3 , max1*min1*min2)
        
