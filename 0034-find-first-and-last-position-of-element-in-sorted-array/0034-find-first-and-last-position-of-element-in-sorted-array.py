@@ -13,7 +13,8 @@ class Solution:
                 high = mid - 1
             else:
                 low = mid + 1
-        
+        if ans1 == -1 :
+            return [-1,-1]
         ans2 = -1
         low = 0
         high = n
