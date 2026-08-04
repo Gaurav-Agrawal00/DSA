@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0735-asteroid-collision) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0704-binary-search) |
 | [1901-find-a-peak-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
