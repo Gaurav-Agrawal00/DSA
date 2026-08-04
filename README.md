@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1901-find-a-peak-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Gaurav-Agrawal00/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0085-maximal-rectangle) |
+| [1901-find-a-peak-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [1901-find-a-peak-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
