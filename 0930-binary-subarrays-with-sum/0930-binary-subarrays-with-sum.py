@@ -1,29 +1,28 @@
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
-        cnt1 = 0
-        l = r = 0
-        val = 0
-        while r < len(nums) :
-            val += nums[r]
-            while val > goal and l <= r :
-                val -= nums[l]
-                l += 1
+        def atMost(k):
+            # Edge Case: Agar sum negative dhoondhna hai, par numbers sirf 0/1 hain
+            if k < 0:
+                return 0
+                
+            l = 0
+            val = 0
+            cnt = 0
             
-            if val <= goal :
-                cnt1 += r - l + 1
-            r += 1
+            for r in range(len(nums)):
+                # 1. Naye number ko window mein jodo
+                val += nums[r]
+                
+                # 2. Agar window ka sum limit (k) se bada ho gaya, toh pichhe se chota karo
+                # Tumhari galti yahin thi: tumne k ki jagah goal likh diya tha
+                while val > k and l <= r:
+                    val -= nums[l]
+                    l += 1
+                    
+                # 3. Valid window ke subarrays count karo
+                cnt += r - l + 1
+                
+            return cnt
 
-        cnt2 = 0
-        l = r = 0
-        val = 0
-        while r < len(nums) :
-            val += nums[r]
-            while val > goal-1 and l <= r :
-                val -= nums[l]
-                l += 1
-            
-            if val <= (goal - 1):
-                cnt2 += r - l + 1
-            r += 1
-        print(cnt1,cnt2)
-        return cnt1 - cnt2
+        # AAPKA WALA MATH FORMULA: Exact(goal) = AtMost(goal) - AtMost(goal - 1)
+        return atMost(goal) - atMost(goal - 1)
