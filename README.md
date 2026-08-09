@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
