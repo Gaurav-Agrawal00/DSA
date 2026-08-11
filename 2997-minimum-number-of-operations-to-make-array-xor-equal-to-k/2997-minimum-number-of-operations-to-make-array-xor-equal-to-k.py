@@ -1,14 +1,16 @@
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
-        net_xor = 0
-        for i in range(len(nums)):
-            net_xor ^= nums[i]
-
-        final_diff = net_xor ^ k
-        cnt = 0
-        while final_diff > 0:
-            if final_diff & 1 :
-                cnt += 1
-            final_diff = final_diff >> 1
-
-        return cnt
+        
+        # Step 1: Pura array ka total XOR nikal lo
+        total_xor = 0
+        for num in nums:
+            total_xor = total_xor ^ num
+            
+        # Step 2: Total XOR aur k ke beech ka fark (difference) nikalo
+        # XOR khud hi sirf unhi bits par 1 dega jo match NAHI karti hain
+        diff = total_xor ^ k
+        
+        # Step 3: 'diff' ke andar total kitne set bits (1s) hain, wo gin lo.
+        # Python mein iske liye .bit_count() inbuilt method hota hai (O(1) jaisa fast)
+        # Agar purana Python version ho toh bin(diff).count('1') bhi use kar sakte hain
+        return diff.bit_count()
