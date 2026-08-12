@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0496-next-greater-element-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
