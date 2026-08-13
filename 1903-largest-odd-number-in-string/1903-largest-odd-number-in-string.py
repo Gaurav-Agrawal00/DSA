@@ -6,4 +6,4 @@ class Solution:
                 ind = i
                 break
         
-        return num[ : ind + 1] if i >= 0 else ""
+        return num[ : ind + 1] if ind >= 0 else ""
