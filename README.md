@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Gaurav-Agrawal00/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
