@@ -9,6 +9,6 @@ class Solution:
             else:
                 ans+= romanSet[s[i]]
                 i += 1
-        # if romanSet[s[len(s)-1]] <= romanSet[s[len(s)-2]]:
+        # if romanSet[s[len(s)-1]] <= romanSet[s[len(s)-2]]:    #ye ek aur error ka krn ho skta h agr ek  hhi elem h toh yer don oko le lega qki -1 bole toh last index or 2 baar jod dega
         #     ans += romanSet[s[i]]
         return ans
