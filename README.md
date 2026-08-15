@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0328-odd-even-linked-list](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0328-odd-even-linked-list) |
 ## Array
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0231-power-of-two) |
