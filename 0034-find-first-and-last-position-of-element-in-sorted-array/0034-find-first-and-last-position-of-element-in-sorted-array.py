@@ -26,7 +26,7 @@ class Solution:
             else:
                 high = mid - 1
         
-        if arr[ans1] == target :
+        if ans1 != -1 and arr[ans1] == target :
             return [ans1,ans2]
         else:
             return [-1,-1]
