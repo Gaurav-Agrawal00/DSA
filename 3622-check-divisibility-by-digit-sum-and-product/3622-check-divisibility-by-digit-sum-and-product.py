@@ -7,9 +7,5 @@ class Solution:
             numS = numS  + (x % 10)
             numP = numP * (x % 10)
             x = x //10
-        print(numS,numP)
 
-        if n % (numS + numP )== 0 :
-            return True
-        else:
-            return False
+        return  n % (numS + numP )== 0 
