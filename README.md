@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0231-power-of-two) |
