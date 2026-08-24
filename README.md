@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0231-power-of-two) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0242-valid-anagram) |
