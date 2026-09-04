@@ -20,4 +20,4 @@ class Solution:
         return max(lh , rh ) + 1
 
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        return True if (self.height(root)) >= 0 else False
+        return self.height(root) != -1
