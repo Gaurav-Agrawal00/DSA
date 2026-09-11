@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
