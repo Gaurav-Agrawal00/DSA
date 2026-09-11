@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Gaurav-Agrawal00/DSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Gaurav-Agrawal00/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Monotonic Stack
 |  |
