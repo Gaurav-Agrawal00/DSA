@@ -29,4 +29,4 @@ class Solution:
                     high = high-1
                 else:
                     mid = mid + 1
-        return [i for i in ans]
+        return ans
