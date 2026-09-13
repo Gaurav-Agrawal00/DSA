@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
