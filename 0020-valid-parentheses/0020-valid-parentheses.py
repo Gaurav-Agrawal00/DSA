@@ -1,19 +1,16 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        for val in s:
-            if val == "]" or val == "}" or val == ")":
-                if len(stack) == 0:
-                    return False
-                if (
-                    (val == ")" and stack[-1] != "(")
-                    or (val == "]" and stack[-1] != "[")
-                    or (val == "}" and stack[-1] != "{")
-                ):
-                    return False
-                else:
-                    stack.pop()
-
+        opening = {'(' , '[' , '{'}
+        hash_map = {'(' : ')' , '[' : ']' , '{': '}'}
+        for i in range(len(s)):
+            if s[i] in opening:
+                stack.append(s[i])
             else:
-                stack.append(val)
-        return len(stack) == 0
+                if len(stack) == 0 or hash_map[stack[-1]] != s[i]:
+                    return False
+                
+                stack.pop()
+        if stack:
+            return False
+        return True
