@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Gaurav-Agrawal00/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1901-find-a-peak-element-ii](https://github.com/Gaurav-Agrawal00/DSA/tree/master/1901-find-a-peak-element-ii) |
